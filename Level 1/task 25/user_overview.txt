@@ -1,0 +1,22 @@
+Total number of users : 4
+Total number of tasks : 6 
+admin statistics : 
+admin percentage of tasks of total tasks : 50.0%
+admin percentage of tasks complete : 50.0%
+admin percentage of tasks incomplete : 50.0%
+admin percentage of tasks incomplete and over due : 50.0%
+dude statistics : 
+dude percentage of tasks of total tasks : 50.0%
+dude percentage of tasks complete : 0.0%
+dude percentage of tasks incomplete : 100.0%
+dude percentage of tasks incomplete and over due : 0.0%
+Groot statistics : 
+Groot percentage of tasks of total tasks : 25.0%
+Groot percentage of tasks complete : 0.0%
+Groot percentage of tasks incomplete : 100.0%
+Groot percentage of tasks incomplete and over due : 0.0%
+Jim statistics : 
+Jim percentage of tasks of total tasks : 25.0%
+Jim percentage of tasks complete : 0.0%
+Jim percentage of tasks incomplete : 100.0%
+Jim percentage of tasks incomplete and over due : 100.0%
